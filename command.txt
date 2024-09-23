@@ -1,0 +1,7 @@
+git init = inisialisasi awal
+git push origin (master) = kirim kode dari local ke github
+git pull origin (master) = ambil kode dari github ke local
+git add . & git add (nama file) = file yang mau ditambah
+git commit -m "pesan" = penamaan perubahan pesan
+
+git clone (link repository) = download
